@@ -1,0 +1,1 @@
+swiftc -o MouseJiggler MouseJigglerApp.swift MouseJiggler.swift -framework Cocoa
